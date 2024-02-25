@@ -118,26 +118,7 @@ return (
             />
           </div>
         </div>
-        {/* <div style={{ marginBottom: '20px' }}>
-          <Typography variant="subtitle1">Price Range</Typography>
-          <TextField
-            label="Min Price"
-            type="number"
-            defaultValue="500"
-            // value={filters.minPrice}
-            // onChange={(e) => setFilters({ ...filters, minPrice: e.target.value })}
-            style={{ marginRight: '10px' }}
-          /><br/>
-          <TextField
-            label="Max Price"
-            type="number"
-            defaultValue="200000"
-            // value={filters.maxPrice}
-            // onChange={(e) => setFilters({ ...filters, maxPrice: e.target.value })}
-          />
-        </div> */}
-
-
+        
         {/* Categories Filter */}
         <div style={{ marginBottom: '20px' }}>
       <Typography variant="subtitle1">Categories</Typography>
