@@ -1,0 +1,17 @@
+/* Signin.css */
+.signin-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .signin-form {
+    width: 300px;
+    padding: 20px; /* Add some padding for better visual appearance */
+    background-color: #fff; /* Set background color for the form */
+    border-radius: 8px; /* Add border-radius for rounded corners */
+  }
+  
+  /* You can customize the background color and other styles as needed */
+  
